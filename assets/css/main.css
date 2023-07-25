@@ -140,6 +140,7 @@ table {
 body {
   -webkit-text-size-adjust: none;
   background-color: #8cc9f0;
+  border: 2px solid;
 }
 
 mark {
